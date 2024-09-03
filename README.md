@@ -2,7 +2,7 @@
 
 Este proyecto fue creado con Create React App.
 
-## Scripts Disponibles
+## Scripts Disponibles-
 
 En el directorio del proyecto, puedes ejecutar:
 
